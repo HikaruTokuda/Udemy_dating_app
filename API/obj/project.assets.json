@@ -1547,11 +1547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Study\\Angular\\datingapp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Study\\Angular\\datingapp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Study\\Angular\\datingapp\\API\\API.csproj",
+      "projectPath": "C:\\Study\\Angular\\datingapp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\hkrtk\\.nuget\\packages\\",
-      "outputPath": "c:\\Study\\Angular\\datingapp\\API\\obj\\",
+      "outputPath": "C:\\Study\\Angular\\datingapp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1625,7 +1625,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
