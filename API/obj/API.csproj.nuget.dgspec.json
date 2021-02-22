@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Study\\Angular\\datingapp\\API\\API.csproj": {}
+    "C:\\study\\angular\\datingapp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Study\\Angular\\datingapp\\API\\API.csproj": {
+    "C:\\study\\angular\\datingapp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Study\\Angular\\datingapp\\API\\API.csproj",
+        "projectUniqueName": "C:\\study\\angular\\datingapp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Study\\Angular\\datingapp\\API\\API.csproj",
+        "projectPath": "C:\\study\\angular\\datingapp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\hkrtk\\.nuget\\packages\\",
-        "outputPath": "C:\\Study\\Angular\\datingapp\\API\\obj\\",
+        "outputPath": "C:\\study\\angular\\datingapp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
